@@ -1,5 +1,5 @@
 ## TypeScript Friendly Vue 3 - Vue Mastery
-• Introduction to the Script Setup Syntax
+Introduction to the Script Setup Syntax
 • Reactive Variables with Type Inference
 • Typing Your Callback Functions
 • Props with Compiler Macros
